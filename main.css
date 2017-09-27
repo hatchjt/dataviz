@@ -1,9 +1,11 @@
 body {
-  background-color: black;
-  text-align: center;
-  padding: 200px;
+  padding: 60px;
+  color: #212122;
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Lucida, Verdana, Helvetica, Arial, sans-serif;
 }
 h1 {
   font-size: 60px;
-  color: #eeee33;
+}
+p {
+  font-size: 14px;
 }
